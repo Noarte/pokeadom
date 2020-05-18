@@ -1,121 +1,121 @@
 _ViridianGymText_74ace:: ; 95e09 (25:5e09)
-	text "Fwahahaha! This is"
-	line "my hideout!"
+	text "מוואהאהה! זה"
+	line "המחבוא שלי!"
 
-	para "I planned to"
-	line "resurrect TEAM"
-	cont "ROCKET here!"
+	para "תכננתי"
+	line "להקים כאן צוות"
+	cont "רוקט!"
 
-	para "But, you have"
-	line "caught me again!"
-	cont "So be it! This"
-	cont "time, I'm not"
-	cont "holding back!"
+	para "אבל, אתה"
+	line "תפסת אותי שוב!"
+	cont "אם כך! בפעם"
+	cont "הזאת, אני כבר"
+	cont "לא אתחבא יותר!"
 
-	para "Once more, you"
-	line "shall face"
-	cont "GIOVANNI, the"
-	cont "greatest trainer!"
+	para "פעם נוספת, אתה"
+	line "תאלץ להתמודד מול"
+	cont "המאמן הדגול!"
+	cont "גיובאני!"
 	done
 
 _ViridianGymText_74ad3:: ; 95ed5 (25:5ed5)
-	text "Ha!"
-	line "That was a truly"
-	cont "intense fight!"
-	cont "You have won!"
-	cont "As proof, here is"
-	cont "the EARTHBADGE!@@"
+	text "חה!"
+	line "זה באמת היה"
+	cont "קרב קשה!"
+	cont "אתה ניצחת!"
+	cont "כהוכחה, הנה"
+	cont "תג מכון האדמה!@@"
 
 _ViridianGymText_74ad9:: ; 95f2b (25:5f2b)
-	text "Having lost, I"
-	line "cannot face my"
-	cont "underlings!"
-	cont "TEAM ROCKET is"
-	cont "finished forever!"
+	text "הפסד כזה, אני"
+	line "לא מסוגל להתמודד"
+	cont "עם זה!"
+	cont "צוות רוקט"
+	cont "סיים לתמיד!"
 
-	para "I will dedicate my"
-	line "life to the study"
-	cont "of #MON!"
+	para "מעתה אקדיש את"
+	line "חיי ללמוד"
+	cont "על #ימונים!"
 
-	para "Let us meet again"
-	line "some day!"
-	cont "Farewell!@@"
+	para "אני מקווה לראות אותך שוב"
+	line "ביום מן הימים!"
+	cont "להתראות!@@"
 
 _ViridianGymText12:: ; 95fcc (25:5fcc)
-	text "The EARTHBADGE"
-	line "makes #MON of"
-	cont "any level obey!"
+	text "תג מכון האדמה"
+	line "יגרום ל#ימון מכל"
+	cont "רמה לציית!"
 
-	para "It is evidence of"
-	line "your mastery as a"
-	cont "#MON trainer!"
+	para "זאת העדות"
+	line "ליכולות הגדולות שלך"
+	cont "#כמאמן ימונים!"
 
-	para "With it, you can"
-	line "enter the #MON"
-	cont "LEAGUE!"
+	para "בעזרת התג אתה יכול"
+	line "להיכנס לליגת"
+	cont "#הימונים!"
 
-	para "It is my gift for"
-	line "your #MON"
-	cont "LEAGUE challenge!"
+	para "זאת המתנה שלי"
+	line "לקראת ההשתתפות שלך"
+	cont "בליגת #הימונים!"
 	done
 
 _ReceivedTM27Text:: ; 96082 (25:6082)
-	text $52, " received"
+	text $52, " התקבל"
 	line "TM27!@@"
 
 _TM27ExplanationText:: ; 96095 (25:6095)
 	db $0
-	para "TM27 is FISSURE!"
-	line "It will take out"
-	cont "#MON with just"
-	cont "one hit!"
+	para "TM27 הוא מתקפת סדיקה!"
+	line "הוא יחסל כל"
+	cont "#ימון"
+	cont "במכה אחת!"
 
-	para "I made it when I"
-	line "ran the GYM here,"
-	cont "too long ago..."
+	para "יצרתי אותו"
+	line "כשניהלתי את המכון כאן,"
+	cont "זמן רב מדי..."
 	done
 
 _TM27NoRoomText:: ; 96104 (25:6104)
-	text "You do not have"
-	line "space for this!"
+	text "אין לך מספיק"
+	line "מקום עבור זה!"
 	done
 
 _ViridianGymBattleText1:: ; 96125 (25:6125)
-	text "Heh! You must be"
-	line "running out of"
-	cont "steam by now!"
+	text "הא! אתה כנראה"
+	line "כבר עייף"
+	cont "מכל זה!"
 	done
 
 _ViridianGymEndBattleText1:: ; 96154 (25:6154)
-	text "I"
-	line "ran out of gas!"
+	text "אני"
+	line "התעייפתי!"
 	prompt
 
 _ViridianGymAfterBattleText1:: ; 96167 (25:6167)
-	text "You need power to"
-	line "keep up with our"
-	cont "GYM LEADER!"
+	text "אתה צריך כוח"
+	line "בכדי להתמודד עם"
+	cont "מנהל המכון!"
 	done
 
 _ViridianGymBattleText2:: ; 96197 (25:6197)
-	text "Rrrroar! I'm"
-	line "working myself"
-	cont "into a rage!"
+	text "אהה! אני"
+	line "עובד על "
+	cont "בעיות הכעס שלי!"
 	done
 
 _ViridianGymEndBattleText2:: ; 961c0 (25:61c0)
-	text "Wargh!"
+	text "אח!"
 	prompt
 
 _ViridianGymAfterBattleText2:: ; 961c8 (25:61c8)
-	text "I'm still not"
-	line "worthy!"
+	text "אני עדיין לא"
+	line "ראוי!"
 	done
 
 _ViridianGymBattleText3:: ; 961de (25:61de)
-	text "#MON and I, we"
-	line "make wonderful"
-	cont "music together!"
+	text "#ימונים ואני"
+	line "עושים מוזיקה"
+	cont "נהדרת ביחד!"
 	done
 
 _ViridianGymEndBattleText3:: ; 9620d (25:620d)
